@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.vite/
+
+# OS junk
+.DS_Store
+
+# Logs
+npm-debug.log*
